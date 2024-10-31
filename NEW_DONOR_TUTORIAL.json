@@ -1,0 +1,182 @@
+{
+    "tutorial": {
+        "scenario": "NEW_DONOR",
+        "condition": "STANDARD",
+        "locale": "en-US",
+        "description": "Before you donate plasma it is important to understand the plasma donation process, its risks, and your responsibilities as a donor. It is essential for you to review the materials on this page before your first donation. If you are unable to donate at the center the day you complete these tasks, you will need to review the materials again prior to donatation.",
+        "mandatory": true,
+        "deadline": 1,
+        "execution_order": "SEQUENTIAL",
+        "sections": [
+            {
+                "name": "section_new_donor_welcome_letter",
+                "caption": "New Donor Welcome Letter",
+                "description": "This document includes general information regarding what to expect when visiting an ImmunoTek Donor Center.",
+                "order": 1,
+                "Components": [
+                    {
+                        "order": 1,
+                        "Component": {
+                            "name": "comp_new_donor_welcome_letter",
+                            "caption": "Review New Donor Welcome Letter",
+                            "description": null,
+                            "type": "EXTERNAL_LINK ",
+                            "uri": "https://example.com/some.pdf",
+                            "properties": {
+                                "alert": 1.00
+                            }							
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "section_informed_consent",
+				"caption": "Informed Consent for Automated Plasmapheresis",
+				"description": "This document explains what to expect during the plasma collection procedure, donation rules and regulations, possible effects or reactions, testing, and agreeance to participate in the program.",
+                "order": 2,
+                "Components": [
+                    {
+                        "order": 1,
+                        "Component": {
+                            "name": "comp_informed_consent",
+                            "caption": "Review Informed Consent for Automated Plasmapheresis",
+                            "description": null,
+                            "type": "EXTERNAL_LINK ",
+                            "uri": "https://example.com/some.pdf",
+                            "properties": {
+                                "alert": 1.00
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "section_risk_poster",
+                "caption": "Source Plasma Industry Risk Poster",
+                "description": "This document reviews high risk behavior and donation guidelines.",
+                "order": 3,
+                "Components": [
+                    {
+                        "order": 1,
+                        "Component": {
+                            "name": "comp_risk_poster",
+                            "caption": "Review Source Plasma Industry Risk Poster",
+                            "description": null,
+                            "type": "EXTERNAL_LINK",
+                            "uri": "https://example.com/some.pdf",
+                            "properties": {
+                                "alert": 1.00
+                            }
+                        }
+                    }
+				]
+            },
+            {
+                "name": "section_med_list",
+                "caption": "Medication List",
+                "description": "This document outlines a list of medications that could have a harmful impact on the donor or the end patient. Please review thoroughly.",
+                "order": 4,
+                "Components": [
+                    {
+                        "order": 1,
+                        "Component": {
+                            "name": "comp_med_list",
+                            "caption": "Review Medication List",
+                            "description": null,
+                            "type": "EXTERNAL_LINK",
+                            "uri": "https://example.com/some.pdf",
+                            "properties": {
+                                "alert": 1.00
+                            }
+                        }
+                    }
+                ]					
+            },
+            {
+                "name": "section_trvl_risk_poster",
+                "caption": "Travel Risk Poster",
+                "description": "Visiting or having a blood transfusion in certain countries could impact ability to donate. Please review thoroughly.",
+                "order": 5,
+                "Components": [
+                    {
+                        "order": 1,
+                        "Component": {
+                            "name": "comp_trvl_risk_poster",
+                            "caption": "Review Travel Risk Poster",
+                            "description": null,
+                            "type": "EXTERNAL_LINK",
+                            "uri": "https://example.com/some.pdf",
+                            "properties": {
+                                "alert": 1.00
+                            }
+                        }
+                    }
+                ]					
+            },
+            {
+                "name": "section_cross_donation",
+                "caption": "Cross-Donation Notification Consent ",
+                "description": "An explanation of the Cross-Donation Check System, risks associated with cross-donation, and agreeance to ImmunoTek's regulations.",
+                "order": 6,
+                "Components": [
+                    {
+                        "order": 1,
+                        "Component": {
+                            "name": "comp_cross_donation",
+                            "caption": "Review Cross-Donation Notification Consent",
+                            "description": null,
+                            "type": "EXTERNAL_LINK",
+                            "uri": "https://example.com/some.pdf",
+                            "properties": {
+                                "alert": 1.00
+                            }
+                        }
+                    }
+                ]					
+            },
+            {
+                "name": "section_nd_handout",
+                "caption": "New Donor Handout",
+                "description": "Review of documentation new donors must bring to the donation center for their first visit to be eligible to complete the registration process.",
+                "order": 7,
+                "Components": [
+                    {
+                        "order": 1,
+                        "Component": {
+                            "name": "comp_nd_handout",
+                            "caption": "Review New Donor Handout",
+                            "description": null,
+                            "type": "EXTERNAL_LINK",
+                            "uri": "https://example.com/some.pdf",
+                            "properties": {
+                                "alert": 1.00
+                            }
+                        }
+                    }
+                ]					
+            },
+            {
+                "name": "section_tbd_video",
+                "caption": "TBD video",
+                "description": "TBD",
+                "order": 8,
+                "Components": [
+                    {
+                        "order": 1,
+                        "Component": {
+                            "name": "comp_tbd_video",
+                            "caption": "TBD caption",
+                            "description": null,
+                            "type": "EXTERNAL_LINK",
+                            "uri": "https://example.com/some.video.mp4",
+                            "properties": {
+								"format": "video",
+                                "alert": 3.00
+                            }
+                        }
+                    }
+                ]					
+            }
+        ]
+    }
+}
