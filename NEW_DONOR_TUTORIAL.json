@@ -23,7 +23,7 @@
                             "type": "EXTERNAL_LINK ",
                             "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
-                                "alert": 60
+                                "alert": 0.083
                             }							
                         }
                     }
@@ -44,7 +44,7 @@
                             "type": "EXTERNAL_LINK ",
                             "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
-                                "alert": 60
+                                "alert": 0.083
                             }
                         }
                     }
@@ -65,7 +65,7 @@
                             "type": "EXTERNAL_LINK",
                             "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
-                                "alert": 60
+                                "alert": 0.083
                             }
                         }
                     }
@@ -86,7 +86,7 @@
                             "type": "EXTERNAL_LINK",
                             "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
-                                "alert": 60
+                                "alert": 0.083
                             }
                         }
                     }
@@ -107,7 +107,7 @@
                             "type": "EXTERNAL_LINK",
                             "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
-                                "alert": 60
+                                "alert": 0.083
                             }
                         }
                     }
@@ -128,7 +128,7 @@
                             "type": "EXTERNAL_LINK",
                             "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
-                                "alert": 60
+                                "alert": 0.083
                             }
                         }
                     }
@@ -149,7 +149,7 @@
                             "type": "EXTERNAL_LINK",
                             "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
-                                "alert": 60
+                                "alert": 0.083
                             }
                         }
                     }
