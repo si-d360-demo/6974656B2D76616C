@@ -21,7 +21,7 @@
                             "caption": "Review New Donor Welcome Letter",
                             "description": null,
                             "type": "EXTERNAL_LINK ",
-                            "uri": "https://example.com/some.pdf",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
                                 "alert": 1.00
                             }							
@@ -42,7 +42,7 @@
                             "caption": "Review Informed Consent for Automated Plasmapheresis",
                             "description": null,
                             "type": "EXTERNAL_LINK ",
-                            "uri": "https://example.com/some.pdf",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
                                 "alert": 1.00
                             }
@@ -63,7 +63,7 @@
                             "caption": "Review Source Plasma Industry Risk Poster",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://example.com/some.pdf",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
                                 "alert": 1.00
                             }
@@ -84,7 +84,7 @@
                             "caption": "Review Medication List",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://example.com/some.pdf",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
                                 "alert": 1.00
                             }
@@ -105,7 +105,7 @@
                             "caption": "Review Travel Risk Poster",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://example.com/some.pdf",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
                                 "alert": 1.00
                             }
@@ -126,7 +126,7 @@
                             "caption": "Review Cross-Donation Notification Consent",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://example.com/some.pdf",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
                                 "alert": 1.00
                             }
@@ -147,7 +147,7 @@
                             "caption": "Review New Donor Handout",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://example.com/some.pdf",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
                                 "alert": 1.00
                             }
@@ -168,7 +168,7 @@
                             "caption": "TBD caption",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://example.com/some.video.mp4",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample_video_bg_music.mp4",
                             "properties": {
 								"format": "video",
                                 "alert": 3.00
