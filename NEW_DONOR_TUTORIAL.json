@@ -155,28 +155,6 @@
                     }
                 ]					
             },
-            {
-                "name": "section_tbd_video",
-                "caption": "TBD video",
-                "description": "TBD",
-                "order": 8,
-                "Components": [
-                    {
-                        "order": 1,
-                        "Component": {
-                            "name": "comp_tbd_video",
-                            "caption": "TBD caption",
-                            "description": null,
-                            "type": "EXTERNAL_LINK",
-                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample_video_bg_music.mp4",
-                            "properties": {
-								"format": "video",
-                                "alert": 0.167
-                            }
-                        }
-                    }
-                ]					
-            },
 			{
                 "name": "section_tutorial_end",
                 "caption": "Thank you for completing the tutorial!",
