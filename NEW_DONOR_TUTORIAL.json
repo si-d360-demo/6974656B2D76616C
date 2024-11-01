@@ -181,7 +181,7 @@
                 "name": "section_tutorial_end",
                 "caption": "Thank you for completing the tutorial!",
                 "description": null,
-                "order": 100,
+                "order": 9,
                 "Components": []
             }			
         ]
