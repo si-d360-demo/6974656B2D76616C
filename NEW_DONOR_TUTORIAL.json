@@ -158,14 +158,14 @@
             {
                 "name": "section_tbd_video",
                 "caption": "TBD video",
-                "description": "TBD",
+                "description": "TBD (10s alert)",
                 "order": 8,
                 "Components": [
                     {
                         "order": 1,
                         "Component": {
                             "name": "comp_tbd_video",
-                            "caption": "TBD caption (10s alert)",
+                            "caption": "TBD caption",
                             "description": null,
                             "type": "EXTERNAL_LINK",
                             "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample_video_bg_music.mp4",
