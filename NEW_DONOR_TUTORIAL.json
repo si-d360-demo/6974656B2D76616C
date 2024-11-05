@@ -178,11 +178,10 @@
                 ]					
             },			
             {
-                "name": "section_new_donor_ending_DFE4",
+                "name": "section_new_donor_ending",
                 "caption": "Thank you for completing this tutorial. Next you will answer a series of questions relating to your health history. The first time you donate you will receive the long form of this questionnaire, and for most returning visits you will receive a short form. It is crucial that you respond to each question accurately. We may review some of your answers during your visit to our plasma center.",
                 "description": null,
-                "order": 9,
-                "components": []
+                "order": 9
             }
         ]
     }
