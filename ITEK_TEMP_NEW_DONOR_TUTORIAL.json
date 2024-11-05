@@ -5,7 +5,7 @@
         "locale": "en-US",
         "description": "Before you donate plasma it is important to understand the plasma donation process, its risks, and your responsibilities as a donor. It is essential for you to review the materials on this page before your first donation. If you are unable to donate at the center the day you complete these tasks, you will need to review the materials again prior to donatation.",
         "mandatory": true,
-        "deadline": 1,
+        "deadline": 0,
         "execution_order": "SEQUENTIAL",
         "sections": [
             {
