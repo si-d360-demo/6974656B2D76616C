@@ -168,9 +168,9 @@
                             "caption": "TBD caption",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample_video_bg_music.mp4",
+                            "uri": "https://www.youtube.com/watch?v=imku3JCTRqY",
                             "properties": {
-								"format": "video",
+								"format": "youtube",
                                 "alert": 3.000
                             }
                         }
