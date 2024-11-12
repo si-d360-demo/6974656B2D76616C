@@ -8,7 +8,7 @@
         "deadline": 1,
         "execution_order": "SEQUENTIAL",
         "sections": [
-			{
+            {
                 "name": "section_new_donor_welcome_letter",
                 "caption": "New Donor Welcome Letter",
                 "description": "This document includes general information regarding what to expect when visiting an ImmunoTek Donor Center.",
@@ -157,20 +157,20 @@
             },
             {
                 "name": "section_tbd_video",
-                "caption": "",
-                "description": "",
+                "caption": "TBD video",
+                "description": "TBD",
                 "order": 8,
                 "Components": [
                     {
                         "order": 1,
                         "Component": {
                             "name": "comp_tbd_video",
-                            "caption": "",
+                            "caption": "TBD caption",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://www.youtube.com/watch?v=imku3JCTRqY",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample_video_bg_music.mp4",
                             "properties": {
-								"format": "youtube",
+								"format": "video",
                                 "alert": 3.000
                             }
                         }
@@ -181,7 +181,8 @@
                 "name": "section_new_donor_ending",
                 "caption": "Thank you for completing this tutorial. Next you will answer a series of questions relating to your health history. The first time you donate you will receive the long form of this questionnaire, and for most returning visits you will receive a short form. It is crucial that you respond to each question accurately. We may review some of your answers during your visit to our plasma center.",
                 "description": null,
-                "order": 9
+                "order": 9,
+                "components": []
             }
         ]
     }
