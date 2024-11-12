@@ -8,7 +8,7 @@
         "deadline": 1,
         "execution_order": "SEQUENTIAL",
         "sections": [
-            {
+			{
                 "name": "section_new_donor_welcome_letter",
                 "caption": "New Donor Welcome Letter",
                 "description": "This document includes general information regarding what to expect when visiting an ImmunoTek Donor Center.",
@@ -21,7 +21,7 @@
                             "caption": "Review New Donor Welcome Letter",
                             "description": null,
                             "type": "EXTERNAL_LINK ",
-                            "uri": "https://www.immunotek.com/new-donor-welcome-letter/",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
                                 "alert": 0.083
                             }							
@@ -42,7 +42,7 @@
                             "caption": "Review Informed Consent for Automated Plasmapheresis",
                             "description": null,
                             "type": "EXTERNAL_LINK ",
-                            "uri": "https://www.immunotek.com/informed-consent-for-automated-plasmapheresis/,
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
                                 "alert": 0.083
                             }
@@ -63,7 +63,7 @@
                             "caption": "Review Source Plasma Industry Risk Poster",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://www.immunotek.com/source-plasma-industry-risk-poster/",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
                                 "alert": 0.083
                             }
@@ -84,7 +84,7 @@
                             "caption": "Review Medication List",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://www.immunotek.com/medication-list/",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
                                 "alert": 0.083
                             }
@@ -105,7 +105,7 @@
                             "caption": "Review Travel Risk Poster",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://www.immunotek.com/travel-risk-poster/",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
                                 "alert": 0.083
                             }
@@ -126,7 +126,7 @@
                             "caption": "Review Cross-Donation Notification Consent",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://www.immunotek.com/cross-donation-notification/",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
                                 "alert": 0.083
                             }
@@ -147,7 +147,7 @@
                             "caption": "Review New Donor Handout",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://www.immunotek.com/new-donor-handout/",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
                             "properties": {
                                 "alert": 0.083
                             }
