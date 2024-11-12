@@ -21,7 +21,7 @@
                             "caption": "Review New Donor Welcome Letter",
                             "description": null,
                             "type": "EXTERNAL_LINK ",
-                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
+                            "uri": "https://www.immunotek.com/new-donor-welcome-letter/",
                             "properties": {
                                 "alert": 0.083
                             }							
@@ -42,7 +42,7 @@
                             "caption": "Review Informed Consent for Automated Plasmapheresis",
                             "description": null,
                             "type": "EXTERNAL_LINK ",
-                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
+                            "uri": "https://www.immunotek.com/informed-consent-for-automated-plasmapheresis/,
                             "properties": {
                                 "alert": 0.083
                             }
@@ -63,7 +63,7 @@
                             "caption": "Review Source Plasma Industry Risk Poster",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
+                            "uri": "https://www.immunotek.com/source-plasma-industry-risk-poster/",
                             "properties": {
                                 "alert": 0.083
                             }
@@ -84,7 +84,7 @@
                             "caption": "Review Medication List",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
+                            "uri": "https://www.immunotek.com/medication-list/",
                             "properties": {
                                 "alert": 0.083
                             }
@@ -105,7 +105,7 @@
                             "caption": "Review Travel Risk Poster",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
+                            "uri": "https://www.immunotek.com/travel-risk-poster/",
                             "properties": {
                                 "alert": 0.083
                             }
@@ -126,7 +126,7 @@
                             "caption": "Review Cross-Donation Notification Consent",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
+                            "uri": "https://www.immunotek.com/cross-donation-notification/",
                             "properties": {
                                 "alert": 0.083
                             }
@@ -147,7 +147,7 @@
                             "caption": "Review New Donor Handout",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
+                            "uri": "https://www.immunotek.com/new-donor-handout/",
                             "properties": {
                                 "alert": 0.083
                             }
@@ -157,21 +157,21 @@
             },
             {
                 "name": "section_tbd_video",
-                "caption": "TBD video",
-                "description": "TBD (10s alert)",
+                "caption": "",
+                "description": "",
                 "order": 8,
                 "Components": [
                     {
                         "order": 1,
                         "Component": {
                             "name": "comp_tbd_video",
-                            "caption": "TBD caption",
+                            "caption": "",
                             "description": null,
                             "type": "EXTERNAL_LINK",
-                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample_video_bg_music.mp4",
+                            "uri": "https://youtu.be/imku3JCTRqY",
                             "properties": {
-								"format": "video",
-                                "alert": 0.167
+								"format": "youtube",
+                                "alert": 3.000
                             }
                         }
                     }
