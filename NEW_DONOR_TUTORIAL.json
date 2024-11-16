@@ -157,15 +157,15 @@
             },
             {
                 "name": "section_tbd_video",
-                "caption": "TBD video",
-                "description": "TBD",
+                "caption": "",
+                "description": "",
                 "order": 8,
                 "Components": [
                     {
                         "order": 1,
                         "Component": {
                             "name": "comp_tbd_video",
-                            "caption": "TBD caption",
+                            "caption": "",
                             "description": null,
                             "type": "EXTERNAL_LINK",
                             "uri": "https://www.youtube.com/watch?v=imku3JCTRqY",
