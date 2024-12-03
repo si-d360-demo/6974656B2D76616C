@@ -1,0 +1,81 @@
+{
+    "tutorial": {
+        "scenario": "NEW_DONOR",
+        "condition": "STANDARD",
+        "locale": "en-US",
+        "description": "Before donating plasma, it's crucial to familiarize yourself with the donation process, associated risks, and your obligations as a donor. Please take the time to go through the information on this page before making your first donation. If you cannot donate at the center on the same day you review this material, you will need to revisit the information again prior to donating.",
+        "mandatory": true,
+        "deadline": 1,
+        "execution_order": "SEQUENTIAL",
+        "sections": [
+            {
+                "name": "section_new_donor_welcome_letter",
+                "caption": "New Donor Welcome Letter",
+                "description": "short 5 sec alert set for this doc",
+                "order": 1,
+                "Components": [
+                    {
+                        "order": 1,
+                        "Component": {
+                            "name": "comp_new_donor_welcome_letter",
+                            "caption": "Review New Donor Welcome Letter",
+                            "description": null,
+                            "type": "EXTERNAL_LINK ",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf",
+                            "properties": {
+                                "alert": 0.083
+                            }							
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "section_informed_consent",
+				"caption": "Informed Consent for Automated Plasmapheresis",
+				"description": "no alert is set for this doc",
+                "order": 2,
+                "Components": [
+                    {
+                        "order": 1,
+                        "Component": {
+                            "name": "comp_informed_consent",
+                            "caption": "Review Informed Consent for Automated Plasmapheresis",
+                            "description": null,
+                            "type": "EXTERNAL_LINK ",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample.pdf"
+                        }
+                    }
+                ]
+            }, 
+            {
+                "name": "section_tbd_video",
+                "caption": "Donor info video",
+                "description": "",
+                "order": 3,
+                "Components": [
+                    {
+                        "order": 1,
+                        "Component": {
+                            "name": "comp_tbd_video",
+                            "caption": "",
+                            "description": null,
+                            "type": "EXTERNAL_LINK",
+                            "uri": "https://si-d360-demo.github.io/6974656B2D76616C/sample_video_bg_music.mp4",
+                            "properties": {
+								"format": "video",
+                                "alert": 0.167
+                            }
+                        }
+                    }
+                ]					
+            },			
+            {
+                "name": "section_new_donor_ending",
+                "caption": "Thank you for completing the tutorial. Next, you'll answer questions about your health history. First-time donors receive a long questionnaire, while returning donors get a short form. Please answer accurately, as we may review your responses during your visit.",
+                "description": null,
+                "order": 4,
+                "components": []
+            }
+        ]
+    }
+}
